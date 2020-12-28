@@ -1,0 +1,35 @@
+body{
+    padding: 40px;
+
+}
+.jumbotron{
+    background-color: rgb(212, 209, 209);
+    border-radius: 15px;
+    text-align: justify;
+}
+.row{
+    align-items: center;
+    padding: 100px;
+}
+h1{
+    font-size: 4.5rem;
+}
+.thumbnail{
+    align-items: center;
+    box-shadow:1px 1px 2px 2px rgb(170, 169, 169);
+    border-radius: 10px;
+    padding: 10px;
+}
+#caption{
+    background-color: rgb(187, 186, 186);
+    padding: 10px;
+    border-radius: 10px;  
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a{
+      text-decoration: none;
+  }
